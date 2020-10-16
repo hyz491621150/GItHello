@@ -6,6 +6,8 @@ public class Hello {
         System.out.println("hello1");
         System.out.println("hello2");
         System.out.println("创建分支");
+        System.out.println("主干添加");
+
 
     }
 }
